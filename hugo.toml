@@ -1,4 +1,4 @@
-baseURL = 'https://kaleidoscopic-pony-75748d.netlify.app/'
+baseURL = 'https://cusick1.netlify.app/'
 languageCode = 'en-us'
 title = 'Netlify Demo'
 theme = "ga-hugo-theme"
